@@ -26,10 +26,12 @@ int main(){
 
     float real_price, pre_point, pay, discount;
     float new_point = 0;
+
     printf("Enter your price : ");
     scanf("%f", &real_price);
     printf("Enter your previous points : ");
     scanf("%f", &pre_point);
+    
     float point_tk = pre_point / 40;
     discount = discountTK(real_price);
     pay = real_price - discount - point_tk;
