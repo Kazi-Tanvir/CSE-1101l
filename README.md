@@ -1,4 +1,4 @@
-# CSE 1101 - Programming Language
+# CSE 1101 - Structured Programming
 
 ## CLASS
 - [calculator.c](CLASS/calculator.c) | Date: 

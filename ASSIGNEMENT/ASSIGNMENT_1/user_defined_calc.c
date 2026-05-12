@@ -37,3 +37,7 @@ int main()
 
     return 0;
 }
+
+
+// use user defined functions for making a simple calculator that performs addition, subtraction, multiplication, and division. The program should take two numbers as input and display the results of all four operations.
+// Lesson : Teaches you how to use user user defined function
