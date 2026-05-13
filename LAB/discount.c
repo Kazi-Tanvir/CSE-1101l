@@ -1,5 +1,30 @@
 #include <stdio.h>
 
+//Theory 
+
+//Input
+// the price and previous points of a costumer.
+
+// Discount (Taka) Conditions
+// 1. If the price is greater than or equal to 5000, the discount is 10% of the price, but it cannot exceed 2000.
+// 2. If the price is exactly 2027, the discount is 270.
+// 3. If the price is between 3000 and 4000 (inclusive), the discount is 5% of the price.
+// 4. If the price is greater than or equal to 500, the discount is 50.
+
+// Point (Taka) Conditions
+// 40 points = 1 Taka
+// 4 taka = 10 points
+
+// Calculation 
+// payable amount = price - discount - (previous points / 40)
+// new points = (payable amount * 10) / 4
+
+//Constraints
+// 1. The price must be a positive number.
+
+//Output 
+// Print the payable amount, total discount, and new points.
+
 float discountTK(float price)
 {
     float discount = 0;

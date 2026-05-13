@@ -1,5 +1,17 @@
 #include<stdio.h>
 
+// Theory
+
+// Input
+//  the birth date and current date of a person.
+
+// Calculation
+//  Total Days = Year*365 + Month*30 + Day;
+// Age in days = birthday in days - current date in days 
+
+//Output
+// 2. Convert the age in days into years, months, and days.
+
 int calcAge(int Year , int Month , int Day){
     return Year*365 + Month*30 + Day;
 }
