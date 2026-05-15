@@ -2,28 +2,24 @@
 
 void print(int n, char c)
 {
-    for (int i = 0; i <= 2 * (n - 2) + 2; i++)
+    for (int i = 0; i <= 2 * (n - 2) ; i++)
     {
-        if (i == n - 2)
-            printf("\\");
-        else if (i == n - 1)
-            printf(" ");
-        else if (i == n)
-            printf("/");
-        else
-            printf("%c", c);
+        i == n - 2 ? printf("\\ /") : printf("%c", c);
     }
 }
 
 int main()  
 {
     int n;
-    printf("Enter Your number and char : ");
+
+    printf("Enter Your number: ");
     scanf("%d", &n);
-    int length = 2 * (n - 2) + 1;
-    for (int i = 0; i < length; i++)
+    
+    int height = 2 * (n - 2) + 1;
+
+    for (int i = 0; i < height; i++)
     {
-        if (i == (length - 1) / 2)
+        if (i == (height - 1) / 2)
         {
             for (int j = 0; j < n - 1; j++)
             {
