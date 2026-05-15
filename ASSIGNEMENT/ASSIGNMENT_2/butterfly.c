@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-void print(int n, char c)
-{
+void print(int n, char c){
     for (int i = 0; i <= 2 * (n - 2) ; i++)
     {
         i == n - 2 ? printf("\\ /") : printf("%c", c);

@@ -17,19 +17,19 @@
     <tbody>
       <tr>
         <td>📄 <a href="CLASS/calculator.c"><code>calculator.c</code></a></td>
-        <td align="center"><code>--/--/----</code></td>
+        <td align="center"><code>09/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/grade.c"><code>grade.c</code></a></td>
-        <td align="center"><code>--/--/----</code></td>
+        <td align="center"><code>09/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/number_game.c"><code>number_game.c</code></a></td>
-        <td align="center"><code>--/--/----</code></td>
+        <td align="center"><code>09/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/prime_number.c"><code>prime_number.c</code></a></td>
-        <td align="center"><code>--/--/----</code></td>
+        <td align="center"><code>09/05/2026</code></td>
       </tr>
     </tbody>
   </table>
