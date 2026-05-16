@@ -38,3 +38,11 @@ int main()
 
     return 0;
 }
+
+// Concept on why it work 
+// usual approach check eveyr every number from 1 to n | takes maximum n-1 times
+// second approach check every number from 2 to n/2 | takes maximum n/2 - 1 times
+// third approach check every number from 2 to sqrt(n) | takes maximum sqrt(n) - 1 times
+// Why it works ?
+// there are arithmetic average and geometric average 
+// n/2 usage is arithmetic average and sqrt(n) usage is geometric average
