@@ -49,20 +49,44 @@
     </thead>
     <tbody>
       <tr>
-        <td>🧪 <a href="LAB/age_calc_simple.c"><code>age_calc_simple.c</code></a></td>
+        <td>🧪 <a href="LAB/01_change_var_temp.c"><code>01_change_var_temp.c</code></a></td>
+        <td align="center"><code>26/04/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/02_change_var_no_temp.c"><code>02_change_var_no_temp.c</code></a></td>
+        <td align="center"><code>26/04/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/03_age_calc_simple.c"><code>03_age_calc_simple.c</code></a></td>
         <td align="center"><code>03/05/2026</code></td>
       </tr>
       <tr>
-        <td>🧪 <a href="LAB/change_calc_simplified.c"><code>change_calc_simplified.c</code></a></td>
+        <td>🧪 <a href="LAB/04_change_calc_simplified.c"><code>04_change_calc_simplified.c</code></a></td>
         <td align="center"><code>03/05/2026</code></td>
       </tr>
       <tr>
-        <td>🧪 <a href="LAB/cgpa.c"><code>cgpa.c</code></a></td>
+        <td>🧪 <a href="LAB/05_cgpa.c"><code>05_cgpa.c</code></a></td>
         <td align="center"><code>10/05/2026</code></td>
       </tr>
       <tr>
-        <td>🧪 <a href="LAB/discount.c"><code>discount.c</code></a></td>
+        <td>🧪 <a href="LAB/06_discount.c"><code>06_discount.c</code></a></td>
         <td align="center"><code>10/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/07_hollow_triangle.c"><code>07_hollow_triangle.c</code></a></td>
+        <td align="center"><code>17/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/08_pascal.c"><code>08_pascal.c</code></a></td>
+        <td align="center"><code>17/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/09_password.c"><code>09_password.c</code></a></td>
+        <td align="center"><code>17/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/10_discount_budget.c"><code>10_discount_budget.c</code></a></td>
+        <td align="center"><code>17/05/2026</code></td>
       </tr>
     </tbody>
   </table>
@@ -87,7 +111,11 @@
       </tr>
       <tr>
         <td>📌 <strong>Assignment 2</strong></td>
-        <td align="center"><code>11/05/2026</code> & <code>14/05/2026</code></td>
+        <td align="center"><code>11/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>📌 <strong>Assignment 3</strong></td>
+        <td align="center"><code>14/05/2026</code></td>
       </tr>
     </tbody>
   </table>
